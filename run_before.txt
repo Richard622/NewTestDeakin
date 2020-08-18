@@ -1,0 +1,12 @@
+//npm init
+//npm install mongoose
+
+
+//先输入“D:”
+cd D:\MongoDB\bin  
+mongod -dbpath D:\MongoDB\data\db
+
+
+
+//mongoD:
+AT LEAST 1 CMD!!!!
