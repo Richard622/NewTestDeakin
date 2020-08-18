@@ -10,3 +10,13 @@ mongod -dbpath D:\MongoDB\data\db
 
 //mongoD:
 AT LEAST 1 CMD!!!!
+
+
+
+
+
+
+
+//heroku连接时断开vpn，连接失败后开vpn
+//git config --global user.email "luozhon@deakin.edu.au"
+//git config --global user.name "Luo Zhongtian"
